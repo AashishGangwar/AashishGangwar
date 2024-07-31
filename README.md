@@ -38,7 +38,8 @@
 ###
 
 <div align="center">
-<img src="" alt="Snake animation" /></div>
+  <img src="https://raw.githubusercontent.com/Aashish-Gangwar/Aashish-Gangwar/output/snake.svg"  />
+</div>
 
 ###
 
