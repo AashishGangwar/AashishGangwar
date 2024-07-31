@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Aashish-Gangwar/Aashish-Gangwar/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Aashish Gangwar</h1>
 <h3 align="center">Innovating at the Intersection of Technology💻 and Business📊</h3>
 
