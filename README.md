@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Gangwar</h1>
-<h3 align="center">Innovating at the Intersection of Technology and Business💻📊</h3>
+<h3 align="center">Innovating at the Intersection of Technology💻 and Business📊</h3>
 
 ###
 ###
