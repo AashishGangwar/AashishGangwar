@@ -19,7 +19,7 @@
 
 ###
 <div align="center">
-<img align="Center" height="180" width="250" src="https://github.com/user-attachments/assets/e47e7438-5b80-48f5-a3c5-7a33ef8d2916"  /></div>
+<img align="Center" height="180" width="250" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"  /></div>
 
 ###
 
