@@ -34,16 +34,16 @@
 ###
 
 <div align="Center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-gangwar&theme=dark" alt="aashish-gangwar" /></div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishgangwar&theme=dark" alt="aashish-gangwar" /></div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aashish-Gangwar/Aashish-Gangwar/output/snake.svg"  />
+  <img src="https://raw.githubusercontent.com/AashishGangwar/Aashish-Gangwar/output/snake.svg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Aashish-Gangwar/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AashishGangwar/count.svg?"  />
 </div>
